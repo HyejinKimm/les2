@@ -1,0 +1,141 @@
+body {
+  margin: 10px;
+}
+
+.navbar {
+  background-color: #1798AF;
+  margin-bottom: 0;
+  border: 0;
+}
+
+#bs-example-navbar-collapse-1 li {
+  padding: 10px;
+}
+
+#bs-example-navbar-collapse-1 button {
+  margin-top: 17px;
+  margin-right: 50px;
+  border-radius: 50px;
+}
+#bs-example-navbar-collapse-1 li a {
+  color: white;
+}
+
+.header {
+  background-image: url(../img/home5.jpg);
+  background-position: center;
+
+  padding: 100px 0px 500px 0px;
+  margin: 0px;
+  width: 100%;
+
+}
+
+.header h3{
+  color: white;
+  text-align: center;
+}
+
+.header button {
+  text-align: center;
+  border-radius: 50px;
+  margin: 40px;
+}
+
+.header p{
+  text-align: center;
+}
+
+.second{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+
+
+#button button {
+  margin-top: 150px;
+  margin-bottom: 150px;
+  border-radius: 50px;
+}
+
+
+.third {
+  margin: 50px;
+  margin-bottom: 100px;
+}
+
+.fourth {
+  text-align: left;
+}
+
+
+.fourth span {
+  font-size: 2em;
+  margin-top: 30px;
+}
+
+#ebook {
+  background-color: #0f9ba4;
+  color: white;
+  padding: 100px 0px;
+  margin: 0px;
+  width: 100%;
+}
+
+.derde img {
+  width: 100%;
+  height: auto;
+}
+
+.derde p{
+  margin-top: 30px;
+}
+
+.vierde {
+  margin-top: 100px;
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+.vierde p {
+  margin-top: 50px;
+  margin-bottom: 20px;}
+
+.vierde h6 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.vijfde {
+  color: white;
+  text-align: center;
+}
+
+.box {
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  margin-top: 70px;
+  margin-bottom: 100px;
+}
+
+.box span {
+  font-size: 1.5em;
+  border-radius: 50%;
+  background-color: #25d8e3;
+padding: 30px;
+color: white;
+margin-top: -50px;
+}
+
+.box h6 {
+  color: black;
+  font-weight: bold;
+}
+
+.box p {
+  color: #a6a6a6;
+  margin-bottom: 50px;
+}
